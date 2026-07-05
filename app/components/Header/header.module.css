@@ -1,0 +1,15 @@
+
+.header{
+background-color: aqua;
+padding: 20px 30px;
+}
+
+.navigation{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.navigation_element{
+list-style-type: none;
+}
